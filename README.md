@@ -11,4 +11,4 @@ I'm a software engineering student who is passionate about building software, ML
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vietantruong/)   [Gmail](mailto:vietan124@gmail.com)
 
 ⭐️ From [ItsMarcoMSF](https://github.com/ItsMarcoMSF)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+Inspired by [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
