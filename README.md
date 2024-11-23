@@ -4,7 +4,7 @@
 
 I'm a full-stack developer and ReactJS enthusiast.
 
-- 🔭 I’m currently a SWE student at Unversity of Calgary.
+- 🔭 FullStack Software Engineer
 - 🌱 My stack: ReactJS, NextJS, NodeJS, Express, MongoDB, MySQL, GraphQL.
 - 📚 I want to learn Blockchain Programming and dApps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vietantruong/)   [Gmail](mailto:vietan124@gmail.com)
